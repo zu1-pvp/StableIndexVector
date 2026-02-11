@@ -132,7 +132,3 @@ entities.remove_if([](const Entity& e) {
 
 - C++17 or later
 - Standard library only
-
-## License
-
-[Add your license here]
